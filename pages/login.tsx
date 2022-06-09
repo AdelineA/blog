@@ -1,7 +1,7 @@
-const name = "adel";
+const name = "adeline";
 
 const Login = () => {
-    return <p className="first-letter:uppercase text-green-500">{name}</p>
+    return <p className="first-letter:uppercase text-blue-600">{name}</p>
 }
 
 
